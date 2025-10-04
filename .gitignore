@@ -1,3 +1,7 @@
 node_modules
 eslint.config.mjs
 config.json
+cookies.txt
+cli_to_api.py
+potutil.js
+ytdlp_wrapper.py
